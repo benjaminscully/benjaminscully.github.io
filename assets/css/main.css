@@ -85,7 +85,7 @@ input, select, textarea {
 	body {
 		/* background: #fff; */
         /* background: #fffafa; */
-        background: #f2fff2;
+        background: #f8fff8;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -147,7 +147,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		/* color: #787878; */
-        color: #ff0000;
+        color: #bababa;
 		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 1em 0;
