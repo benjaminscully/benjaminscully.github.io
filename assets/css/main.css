@@ -83,7 +83,8 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
+		/* background: #fff; */
+        background: #fffafa;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -99,7 +100,7 @@ input, select, textarea {
 
 	body, input, select, textarea 
     {
-        color: #454545;
+        color: #252525;
         font-family: "Average", serif;
         font-weight: 400;
         font-style: normal;
@@ -118,13 +119,15 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #49bf9d;
+		/* color: #49bf9d; */
+        color: #47a3ff;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #49bf9d !important;
+			color: #47a3ff !important;
+            /* color: #49bf9d !important; */
 			text-decoration: none;
 		}
 
@@ -142,7 +145,8 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #787878;
+		/* color: #787878; */
+        color: #555555;
 		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 1em 0;
