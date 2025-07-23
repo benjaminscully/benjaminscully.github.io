@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Block common unnecessary files
+Disallow: /assets/sass/
+Disallow: /.git/
+Disallow: /README.txt
+Disallow: /LICENSE.txt
+
+# Allow important files explicitly
+Allow: /pdfs/
+Allow: /images/
+Allow: /*.pdf
+Allow: /*.html
+
+# Sitemap location (update with your actual domain)
+Sitemap: https://benjaminscully.github.io/sitemap.xml
+
