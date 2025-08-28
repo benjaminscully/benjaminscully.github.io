@@ -3248,12 +3248,10 @@ input, select, textarea {
 .work-item h3 i.fa-burst { color: #a90000; }
 
 /* Email protection styling */
-.email-at {
-	display: inline-block;
-	width: 0;
-	overflow: hidden;
-}
 .email-at::before {
+    font-size: 1rem;
 	content: "@";
-	display: inline;
+}
+.email-at {
+	font-size: 0;
 }
