@@ -3246,11 +3246,3 @@ input, select, textarea {
 .work-item h3 i.fa-microchip { color: #0082d9; }
 .work-item h3 i.fa-wave-square { color: #c67a00; }
 .work-item h3 i.fa-burst { color: #a90000; }
-
-/* Email protection styling */
-.email-at::before {
-	content: "@";
-}
-.email-at {
-	visibility: hidden;
-}
