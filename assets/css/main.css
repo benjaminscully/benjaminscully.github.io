@@ -3249,9 +3249,8 @@ input, select, textarea {
 
 /* Email protection styling */
 .email-at::before {
-    font-size: 1rem;
 	content: "@";
 }
 .email-at {
-	font-size: 0;
+	visibility: hidden;
 }
