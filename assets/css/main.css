@@ -3242,6 +3242,7 @@ input, select, textarea {
 	margin-right: 0.5em;
 }
 
+.work-item h3 i.fa-satellite-dish { color: #0e7700; }
 .work-item h3 i.fa-fan { color: #2600ff; }
 .work-item h3 i.fa-atom { color: #0e7700; }
 .work-item h3 i.fa-microchip { color: #0082d9; }
