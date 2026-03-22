@@ -16,16 +16,17 @@
 title: Benjamin Scully
 email: b.scully@mail.utoronto.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Benjamin Scully's personal website. I am a PhD student in the Department of Astronomy 
-  and Astrophysics at the University of Toronto. I'm interseted in neutron stars, the dark
-  sector, black holes, particle astrophysics and extreme physics.
+  I am a PhD student in the Department of Astronomy and Astrophysics 
+  at the University of Toronto. I'm interseted in neutron stars, the dark
+  sector, black holes, particle astrophysics and generally using astronomy
+  to investigate physics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://benjaminscully.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  benjaminscully
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-hydejack # minima
 plugins:
   - jekyll-feed
 
