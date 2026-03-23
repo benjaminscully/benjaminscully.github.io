@@ -12,3 +12,10 @@
     margin: 1rem 0;
   }
 }
+
+// Logo sizing
+.sidebar-sticky [href="/"] img {
+  max-width: 480px;
+  min-width: 220px;
+  height: auto;
+}

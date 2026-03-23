@@ -1,0 +1,10 @@
+<!-- Custom menu with target="_blank" for PDF links -->
+<nav class="sidebar-nav">
+  {% for item in site.menu %}
+    {% if item.url contains '.pdf' %}
+      <a class="sidebar-nav-item" href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>
+    {% else %}
+      <a class="sidebar-nav-item{% if page.url == item.url %} active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
+    {% endif %}
+  {% endfor %}
+</nav>

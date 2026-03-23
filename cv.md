@@ -1,7 +1,3 @@
 ---
-layout: page
-title: CV
+redirect_to: /assets/pdf/BenScully_CV_website.pdf
 ---
-
-# CV
-stub
