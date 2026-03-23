@@ -1,0 +1,56 @@
+{% include my-head.html %}
+
+{% if include.author.social %}
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+  <div class="social-links">
+    {% assign social = include.author.social %}
+    
+    {% for item in social %}
+      {% assign key = item[0] %}
+      {% assign value = item[1] %}
+      
+      {% case key %}
+        {% when 'email' %}
+          <a href="mailto:{{ value }}" title="Email" class="social-link">
+            <i class="fas fa-envelope"></i>
+          </a>
+        {% when 'github' %}
+          <a href="https://github.com/{{ value }}" title="GitHub" class="social-link">
+            <i class="fab fa-github"></i>
+          </a>
+        {% when 'orcid' %}
+          <a href="https://orcid.org/{{ value }}" title="ORCID" class="social-link">
+            <i class="ai ai-orcid"></i>
+          </a>
+        {% when 'google-scholar' %}
+          <a href="https://scholar.google.com/citations?user={{ value }}" title="Google Scholar" class="social-link">
+            <i class="ai ai-google-scholar"></i>
+          </a>
+      {% endcase %}
+    {% endfor %}
+  </div>
+
+  <style>
+    .social-links {
+      display: flex;
+      gap: 1.5rem;
+      margin: 1rem 0;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .social-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 2rem;
+      height: 2rem;
+      text-decoration: none;
+      color: inherit;
+      font-size: 1.5rem;
+    }
+    .social-link:hover {
+      opacity: 0.7;
+    }
+  </style>
+{% endif %}
