@@ -11,10 +11,6 @@
       {% assign value = item[1] %}
       
       {% case key %}
-        {% when 'email' %}
-          <a href="mailto:{{ value }}" title="Email" class="social-link">
-            <i class="fas fa-envelope"></i>
-          </a>
         {% when 'github' %}
           <a href="https://github.com/{{ value }}" title="GitHub" class="social-link">
             <i class="fab fa-github"></i>

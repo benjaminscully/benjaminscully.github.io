@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: LIGO signal identification 
 ---
 
 # LIGO

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Aspherical supernovae simulation
 ---
 
 # SNe

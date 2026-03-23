@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Asotrnomy and astrophysics PhD student at University of Toronto.
+    Astronomy and astrophysics PhD student at University of Toronto.
 
   # This photo will be used in the about section
   picture:

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Crab pulsar giant pulses
 ---
 
 # GPs
