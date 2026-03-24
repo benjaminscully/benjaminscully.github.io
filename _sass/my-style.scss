@@ -13,9 +13,29 @@
   }
 }
 
+body {
+  font-family: "Source Code Pro", monospace;
+}
+
 // Logo sizing
 .sidebar-sticky [href="/"] img {
   max-width: 480px;
   min-width: 220px;
   height: auto;
+}
+
+.page ul {
+  list-style: none;
+  padding-left: 0em;
+}
+
+.page ul li {
+  margin-left: -1.5em;
+  padding-left: 1.5em;
+}
+
+.page ul li::before {
+  content: "◆ ";
+  margin-right: 0.5em;
+  font-size: 0.7em;
 }

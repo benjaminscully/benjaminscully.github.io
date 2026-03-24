@@ -24,6 +24,9 @@ orcid:
   name: ORCID
   icon: ai ai-orcid
   prepend: 'https://orcid.org/'
+ads:
+  name: ADS
+  icon: ai ai-ads
 facebook:
   name: Facebook
   icon: icon-facebook

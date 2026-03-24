@@ -31,7 +31,7 @@ description:           >
   to investigate physics.
 
 # A shorter description for the sidebar.
-tagline:               UofT PhD Student, Astronomy & Astrophysics
+tagline:    "UofT PhD Student,<br>Astronomy & Astrophysics"
 
 # A list of keywords for your blog
 keywords:              []
@@ -51,10 +51,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             About
+  - title:             About me
     url:               /about/
   - title:             Research
     url:               /research/
+  - title:             Publications
+    url:               /publications/
   - title:             Outreach
     url:               /outreach/
   - title:             CV

@@ -24,8 +24,10 @@ author1:
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
     # twitter:         <username>
+    linkedin:        benjamin-scully-323570252/
     email:           b.scully@mail.utoronto.ca
     github:          benjaminscully
+    ads:             https://ui.adsabs.harvard.edu/user/libraries/OC27bQ2RSFGYv9CFE3Sjvg
     orcid:           0009-0005-0313-3129
     google-scholar:  XU7xzm8AAAAJ
     # rss:             https://<url>/feed.xml
@@ -56,7 +58,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>

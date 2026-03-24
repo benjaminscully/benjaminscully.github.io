@@ -11,17 +11,21 @@
       {% assign value = item[1] %}
       
       {% case key %}
-        {% when 'github' %}
-          <a href="https://github.com/{{ value }}" title="GitHub" class="social-link">
-            <i class="fab fa-github"></i>
+        {% when 'linkedin' %}
+          <a href="https://www.linkedin.com/in/{{ value }}" target="_blank" rel="noopener noreferrer" title="LinkedIn" class="social-link">
+            <i class="fab fa-linkedin"></i>
           </a>
         {% when 'orcid' %}
-          <a href="https://orcid.org/{{ value }}" title="ORCID" class="social-link">
+          <a href="https://orcid.org/{{ value }}" target="_blank" rel="noopener noreferrer" title="ORCID" class="social-link">
             <i class="ai ai-orcid"></i>
           </a>
         {% when 'google-scholar' %}
-          <a href="https://scholar.google.com/citations?user={{ value }}" title="Google Scholar" class="social-link">
+          <a href="https://scholar.google.com/citations?user={{ value }}" target="_blank" rel="noopener noreferrer" title="Google Scholar" class="social-link">
             <i class="ai ai-google-scholar"></i>
+          </a>
+        {% when 'github' %}
+          <a href="https://github.com/{{ value }}" target="_blank" rel="noopener noreferrer" title="GitHub" class="social-link">
+            <i class="fab fa-github"></i>
           </a>
       {% endcase %}
     {% endfor %}
