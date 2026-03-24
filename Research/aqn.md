@@ -2,6 +2,7 @@
 layout: page
 title: Simulating axion quark nugget dark matter
 accent_image: /assets/img/bgs/stars.png
+permalink: /research/aqn/
 ---
 
 #### University of British Columbia -- *Supervisor: Prof. Ludovic van Waerbeke*

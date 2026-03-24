@@ -2,7 +2,9 @@
 layout: page
 title: Crab pulsar giant pulses
 accent_image: /assets/img/bgs/stars.png
+permalink: /research/giant-pulse/
 ---
+
 #### University of Toronto -- *Supervisor: Prof. Marten van Kerkwijk*
 ##### (September 2025 - present)
 

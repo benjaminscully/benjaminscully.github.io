@@ -2,6 +2,7 @@
 layout: page
 title: Aspherical supernovae simulation
 accent_image: /assets/img/bgs/stars.png
+permalink: /research/sne/
 ---
 
 #### University of Toronto -- *Supervisor: Prof. Christopher Matzner*
