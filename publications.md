@@ -16,3 +16,8 @@ I try to keep this up to date but [ORCID](https://orcid.org/0009-0005-0313-3129)
 
 
 [2] Soni, S., et al. incl. **Scully, B.** LIGO Detector Characterization in the first half of the fourth Observing run. *CQG*: [10.1088/1361-6382/adc4b6](https://iopscience.iop.org/article/10.1088/1361-6382/adc4b6) arXiv: [2409.02831](https://arxiv.org/abs/2409.02831) (Sep. 2024)
+
+
+### Non-refereed
+
+- **Scully, B. P.** (2025, April 30). Investigating the Detectability of Axion Quark Nugget Dark Matter Emission in Modern Telescopes. *Undergraduate Thesis* doi:http://dx.doi.org/10.14288/1.0448674

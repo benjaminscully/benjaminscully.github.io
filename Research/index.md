@@ -16,6 +16,6 @@ Despite making up the majority of our universe's matter content, the nature of d
 The LIGO/Virgo/KAGRA (LVK) gravitational wave (GW) detectors are some of the most sensitve detectors ever constructed. As such transient noise referred to as "glitches" are common and can be confused with actual GW signals. I applied machine learning and dimensional reduction techniques to identigy gaps in the LVK signal processing framework to better distinguish between GW detections and glitches.<br>
 [Learn more →](/Research/ligo/)
 
-## Aspherical supernovae (2022-2023)
+## Aspherical supernovae (2022)
 The vast majority of supernova theory revolves around spherically symmetric explosions, but there are numerous reasons why a star might explode aspherically. Using hydrodynamic simulation, I investigated how in an aspherical supernova, ejecta from one pole can wrap around the star and collide with ejecta from the other pole at the equatorial plane. I showed that provided with the right stellar parameters, this circumstellar collision may be visible in certain supernovae. I proposed that this mecahnism could explain SN2008D. Published in [MNRAS](https://doi.org/10.1093/mnras/stad2360).<br>
 [Learn more →](/Research/sne/)

@@ -14,8 +14,12 @@
 }
 
 body {
-  font-family: "Source Code Pro", monospace;
+  font-family: "Helvetica";
 }
+
+// body {
+//   font-family: "Tiro Devanagari Hindi";
+// }
 
 // Logo sizing
 .sidebar-sticky [href="/"] img {
@@ -32,6 +36,20 @@ body {
 .page ul li {
   margin-left: -1.5em;
   padding-left: 1.5em;
+}
+
+// Nested list styling
+.page ul ul,
+.page ul ol {
+  list-style: none;
+  padding-left: 2em;
+  margin-top: 0.25em;
+}
+
+.page ul ul li,
+.page ul ol li {
+  margin-left: 0;
+  padding-left: 0;
 }
 
 .page ul li::before {
