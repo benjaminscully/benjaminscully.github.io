@@ -54,7 +54,7 @@ menu:
   - title:             About me
     url:               /about/
   - title:             Research
-    url:               /research/
+    url:               /research/index/
   - title:             Publications
     url:               /publications/
   - title:             Outreach
