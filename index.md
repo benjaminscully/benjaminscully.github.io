@@ -16,4 +16,4 @@ cover: True
 - [CV](/cv/)
 
 <br>
-You can contact me at [b.scully@mail.utoronto.ca](b.scully@mail.utoronto.ca)
+You can contact me at **<b.scully@mail.utoronto.ca>**
