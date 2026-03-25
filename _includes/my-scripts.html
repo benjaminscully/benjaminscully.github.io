@@ -6,10 +6,12 @@
       link.setAttribute("rel", "noopener noreferrer");
     });
 
-    // External links in page content
-    document.querySelectorAll(".content a[href^='http']").forEach(function (link) {
-      link.setAttribute("target", "_blank");
-      link.setAttribute("rel", "noopener noreferrer");
+    // All external links anywhere on the page
+    document.querySelectorAll("a[href^='http']").forEach(function (link) {
+      if (!link.href.startsWith(window.location.origin)) {
+        link.setAttribute("target", "_blank");
+        link.setAttribute("rel", "noopener noreferrer");
+      }
     });
   });
 </script>
