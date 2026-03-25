@@ -3,6 +3,8 @@ layout: page
 title: Crab pulsar giant pulses
 accent_image: /assets/img/bgs/stars.png
 permalink: /research/giant-pulse/
+description: Summary of my work in using scintillometry on radio data to analyze the emission mechanism of giant pulses from the crab pulsar.
+hide_description: True
 ---
 
 #### University of Toronto -- *Supervisor: Prof. Marten van Kerkwijk*

@@ -1,6 +1,8 @@
 ---
 layout: plain
 sitemap: false
+description: License for the page
+hide_description: True
 ---
 
 # LICENSE

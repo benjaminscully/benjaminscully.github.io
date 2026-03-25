@@ -3,6 +3,8 @@ layout: page
 title: Simulating axion quark nugget dark matter
 accent_image: /assets/img/bgs/stars.png
 permalink: /research/aqn/
+description: Overview of my honour's thesis on the axion quark nugget (AQN) dark matter model.
+hide_description: True
 ---
 
 #### University of British Columbia -- *Supervisor: Prof. Ludovic van Waerbeke*

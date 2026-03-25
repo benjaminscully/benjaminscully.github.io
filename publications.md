@@ -2,6 +2,8 @@
 layout: page
 title: Publications
 accent_image: /assets/img/bgs/stars.png
+description: List of my first author, co-author, and non-referred publications along with links to publication libraries.
+hide_description: True
 ---
 
 I try to keep this up to date but [ORCID](https://orcid.org/0009-0005-0313-3129), [NASA/ads](https://ui.adsabs.harvard.edu/user/libraries/OC27bQ2RSFGYv9CFE3Sjvg) and [Google Scholar](https://scholar.google.ca/citations?user=XU7xzm8AAAAJ&hl=en) will be equally or more up to date.

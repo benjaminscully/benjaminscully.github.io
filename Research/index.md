@@ -3,6 +3,8 @@ layout: page
 title: Recent projects (selected)
 accent_image: /assets/img/bgs/stars.png
 permalink: /research/
+description: Brief summary of recent astronomy research projects I have conducted. Includes links to more in depth pages.
+hide_description: True
 ---
 
 ## Neutron star giant pulses (2025-active)

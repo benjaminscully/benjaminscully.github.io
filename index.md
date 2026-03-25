@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 title: Home
+description: Homepage with a table of contents of the website.
+hide_description: True
 ---
 
 - [About me](/about/)

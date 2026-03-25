@@ -3,6 +3,8 @@ layout: page
 title: Aspherical supernovae simulation
 accent_image: /assets/img/bgs/stars.png
 permalink: /research/sne/
+description: Summary of my work using hydrodynamic simulation to examine the observability of a new transient associated with aspherical supernovae.
+hide_description: True
 ---
 
 #### University of Toronto -- *Supervisor: Prof. Christopher Matzner*

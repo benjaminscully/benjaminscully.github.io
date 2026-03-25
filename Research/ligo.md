@@ -3,6 +3,8 @@ layout: page
 title: LIGO signal identification 
 accent_image: /assets/img/bgs/stars.png
 permalink: /research/ligo/
+description: Overview of my work improving the signal classification of the GSpyNetTree classifier for LIGO/Virgo/Kagra gravitational wave detectors.
+hide_description: True
 ---
 
 
