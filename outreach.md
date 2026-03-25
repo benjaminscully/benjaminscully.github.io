@@ -11,7 +11,7 @@ I believe making physics and astronomy accesible to marginalized groups and the 
 ## Current programs
 
 #### Toronto Public Library (TPL) Astro Events
-Along with other astronomy graduate and undergraduate students, I run public events at TPL branches around the city. These events can be geared towards younger ages (~8-12), teens (~13-17), adults ($$\gtrsim$$17) and combinations of them! Some examples are "Solar Observing Parties", "Gravitational Lensing workshops", and "Coding Clubs"
+Along with other astronomy graduate and undergraduate students, I run public events at TPL branches around the city. These events can be geared towards younger ages (~8-12), teens (~13-17), adults ($$\gtrsim$$17) and combinations of them! Some examples are "Solar Observing Parties", "Gravitational Lensing workshops", and "Coding Clubs". Reach out to your local TPL brnach to see if they have plans to host a program!
 
 #### AstoTours
 On the first Thursday of every month, the UofT Astronomy graduate students host a free lecture from one of the grad students followed by telescope viewings, lab tours and interactive demos! As the logistics coordinator I support the co-chairs and fill in for any other executives of the event.
@@ -24,3 +24,11 @@ I generally take minor roles involved with interacting with the public on the da
 
 
 ## Some past programs
+
+#### Girl Guide Physics programs 
+The University of British Columbia (UBC) Department of Physics and Astronomy offers interactive demonstrations for girl guide groups based on momentum, circuit building, and general relativity. As a volunteer I ran these events for two years of my undergraduate degree!
+**[More information here!](https://outreach.phas.ubc.ca/events/girl-guide-brownies-visits/)**
+
+#### UBC Physics Olymipcs 
+Every year UBC hosts a physics olymipcs competition for 80+ secondary schools around BC. For three years I was part of the volunteer team who designed and executed one of the "Pre-build" competitions with Prof. Valery Milner. These pre-build challenges included building a vaccuum pump, a mechanical cooler and a optical bench set-up.
+**[More information here!](https://physoly.phas.ubc.ca)**
