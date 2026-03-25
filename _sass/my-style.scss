@@ -17,9 +17,10 @@ body {
   font-family: "Helvetica";
 }
 
-// body {
-//   font-family: "Tiro Devanagari Hindi";
-// }
+// Hide main content on home page - sidebar only
+.page {
+  display: none;
+}
 
 // Logo sizing
 .sidebar-sticky [href="/"] img {
