@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Recent projects (selectec)
+title: Recent projects (selected)
 accent_image: /assets/img/bgs/stars.png
-permalink: /research/index/
+permalink: /research/
 ---
 
 ## Neutron star giant pulses (2025-active)

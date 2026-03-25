@@ -6,7 +6,7 @@ title: Home
 ---
 
 - [About me](/about/)
-- [Research](/research/index/)
+- [Research](/research/)
     - [Giant pulses](/research/giant-pulse/)
     - [Dark matter simulation](/research/aqn/)
     - [LIGO signal classification](/research/ligo/)
