@@ -1,17 +1,22 @@
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    // Social sidebar links
-    document.querySelectorAll(".sidebar-social a").forEach(function (link) {
-      link.setAttribute("target", "_blank");
-      link.setAttribute("rel", "noopener noreferrer");
-    });
-
-    // All external links anywhere on the page
+  function fixExternalLinks() {
     document.querySelectorAll("a[href^='http']").forEach(function (link) {
       if (!link.href.startsWith(window.location.origin)) {
         link.setAttribute("target", "_blank");
         link.setAttribute("rel", "noopener noreferrer");
       }
     });
+  }
+
+  // On initial page load
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".sidebar-social a").forEach(function (link) {
+      link.setAttribute("target", "_blank");
+      link.setAttribute("rel", "noopener noreferrer");
+    });
+    fixExternalLinks();
   });
+
+  // On every subsequent Hydejack dynamic navigation
+  document.addEventListener("hy-push-state-load", fixExternalLinks);
 </script>
