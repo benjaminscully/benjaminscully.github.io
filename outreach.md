@@ -6,7 +6,7 @@ description: Summary of my outreach activities during grad school and undergrad.
 hide_description: True
 ---
 
-I believe making physics and astronomy accesible to marginalized groups and the public as a whole is a vital aspect of being a part of the astronomy commuinity. As such I have and continue to endeavor to be a part outreach efforts. Below are some examples of what I'm involved in!
+I believe making physics and astronomy accesible to marginalized groups and the public as a whole is a vital aspect of being a part of the astronomy commuinity. As such I have and continue to endeavor to be a part of outreach efforts. Below are some examples of what I'm involved in!
 
 ## Current programs
 
