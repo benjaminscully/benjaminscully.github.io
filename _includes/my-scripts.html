@@ -1,6 +1,13 @@
 <script>
   document.addEventListener("DOMContentLoaded", function () {
+    // Social sidebar links
     document.querySelectorAll(".sidebar-social a").forEach(function (link) {
+      link.setAttribute("target", "_blank");
+      link.setAttribute("rel", "noopener noreferrer");
+    });
+
+    // External links in page content
+    document.querySelectorAll(".content a[href^='http']").forEach(function (link) {
       link.setAttribute("target", "_blank");
       link.setAttribute("rel", "noopener noreferrer");
     });
