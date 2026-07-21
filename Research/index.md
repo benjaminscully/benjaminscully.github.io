@@ -20,7 +20,7 @@ Despite making up the majority of our universe's matter content, the nature of d
 [Learn more →](/research/aqn/)
 
 ## LIGO signal identification (2023)
-The LIGO/Virgo/KAGRA (LVK) gravitational wave (GW) detectors are some of the most sensitve detectors ever constructed. As such transient noise referred to as "glitches" are common and can be confused with actual GW signals. I applied machine learning and dimensional reduction techniques to identigy gaps in the LVK signal processing framework to better distinguish between GW detections and glitches.<br>
+The LIGO/Virgo/KAGRA (LVK) gravitational wave (GW) detectors are some of the most sensitve detectors ever constructed. As such transient noise referred to as "glitches" are common and can be confused with actual GW signals. I applied machine learning and dimensional reduction techniques to identify gaps in the LVK signal processing framework to better distinguish between GW detections and glitches.<br>
 [Learn more →](/research/ligo/)
 
 ## Aspherical supernovae (2022)

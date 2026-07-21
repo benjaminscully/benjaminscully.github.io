@@ -6,15 +6,15 @@ description: Summary of my outreach activities during grad school and undergrad.
 hide_description: True
 ---
 
-I believe making physics and astronomy accesible to marginalized groups and the public as a whole is a vital aspect of being a part of the astronomy commuinity. As such I have and continue to endeavor to be a part of outreach efforts. Below are some examples of what I'm involved in!
+I believe making physics and astronomy accesible to marginalized groups and the public as a whole is a vital aspect of being a part of the astronomy community. As such I have and continue to endeavor to be a part of outreach efforts. Below are some examples of what I'm involved in!
 
 ## Current programs
 
 #### Toronto Public Library (TPL) Astro Events
-Along with other astronomy graduate and undergraduate students, I run public events at TPL branches around the city. These events can be geared towards younger ages (~8-12), teens (~13-17), adults ($$\gtrsim$$17) and combinations of them! Some examples are "Solar Observing Parties", "Gravitational Lensing workshops", and "Coding Clubs". Reach out to your local TPL brnach to see if they have plans to host a program!
+Along with other astronomy graduate and undergraduate students, I develop and run public events at TPL branches around the city. These events can be geared towards younger ages (~6-12), teens (~13-17), adults ($$\gtrsim$$17) and combinations of them! Some examples are "Solar Observing parties", "Gravitational Lensing workshops", and "Coding Clubs". Reach out to your local TPL branch to see if they have plans to host a program or check the TPL page **[here](https://tpl.bibliocommons.com/v2/events?q=astronomy)**!
 
-#### AstoTours
-On the first Thursday of every month, the UofT Astronomy graduate students host a free lecture from one of the grad students followed by telescope viewings, lab tours and interactive demos! As the logistics coordinator I support the co-chairs and fill in for any other executives of the event.<br>
+#### AstroTours
+On the first Thursday of every month, the UofT Astronomy graduate students host a free lecture geared towards the public from one of the grad students followed by telescope viewings, lab tours and interactive demos! As the logistics coordinator I support the co-chairs and fill in for any other executives of the event.<br>
 **[More information here!](https://www.astro.utoronto.ca/astrotours/)**
 
 #### Astronomy on Tap
@@ -29,6 +29,6 @@ I generally take minor roles involved with interacting with the public on the da
 The University of British Columbia (UBC) Department of Physics and Astronomy offers interactive demonstrations for girl guide groups based on momentum, circuit building, and general relativity. As a volunteer I ran these events for two years of my undergraduate degree!<br>
 **[More information here!](https://outreach.phas.ubc.ca/events/girl-guide-brownies-visits/)**
 
-#### UBC Physics Olymipcs 
-Every year UBC hosts a physics olymipcs competition for 80+ secondary schools around BC. For three years I was part of the volunteer team who designed and executed one of the "Pre-build" competitions with Prof. Valery Milner. These pre-build challenges included building a vaccuum pump, a mechanical cooler and a optical bench set-up.<br>
+#### UBC Physics Olympics 
+Every year UBC hosts a physics olympics competition for 80+ secondary schools around BC. For three years I was part of the volunteer team who designed and executed one of the "Pre-build" competitions with Prof. Valery Milner. These pre-build challenges included building a vaccuum pump, a mechanical cooler and a optical bench set-up.<br>
 **[More information here!](https://physoly.phas.ubc.ca)**
