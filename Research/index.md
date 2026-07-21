@@ -7,7 +7,11 @@ description: Brief summary of recent astronomy research projects I have conducte
 hide_description: True
 ---
 
-## Neutron star giant pulses (2025-active)
+## Magnetic reconnection around neutron stars (2026-present)
+Magnetic reconnection offers an avenue to effciently deposit magnetic field energy into particles. This provides a potential explanation for myseterious emissions from neutron stars like fast radio bursts (FRBs) and giant pulses. Recently, magnetohydrondynamic (MHD) simulations of reconnection events have matched certain kinetic minulation benchmarks through the impolementation of non-uniform resistivity. I am using the gPLUTO code to investigate the role of magnetic reconnection in neutron star environments. <br>
+[Learn more →](/research/reconnection/)
+
+## Neutron star giant pulses (2025-2026)
 Some pulsars -- the Crab pulsar for example -- are known to emit regular, non-period "giant pulses" which span from radio to x-ray wavelengths. However, the driving mechanism remains unknown. I am using Green Bank Telescope observations in an effort to determine whether these emissions can be explained by a megentic reconnection driven relativistic blob of plasma. <br>
 [Learn more →](/research/giant-pulse/)
 

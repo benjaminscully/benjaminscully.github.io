@@ -8,7 +8,7 @@ hide_description: True
 ---
 
 #### University of Toronto -- *Supervisor: Prof. Marten van Kerkwijk*
-##### (September 2025 - present)
+##### (September 2025 - May 2026)
 
 Neutron stars are some of the most extreme laboratories the universe offers in the study of physics. Their incredible density and magnetic fields offer environments that are inaccessible anywhere else. A subset of neutron stars -- known as pulsars -- emit radiation from their poles due to particularly strong magnetic fields accelerating charged particles. This emission is received on Earth in the form of brief pulses due to the pulsars rotation in the same way a lighthouse appears to pulse to a distant observer. However, certain pulsars have been found to produce a mysterious additional form of radiation in the called giant pulses (GPs). These GPs are non-periodic but regular pulses whose emission ranges from long wavelength radio to high energy x-rays and demonstrate structure in their emission down to at least the nanosecond timescale; this fast components have been dubbed nanoshots. 
 
