@@ -17,11 +17,13 @@ body {
   font-family: "Helvetica";
 }
 
-.content {
-  padding-top: 9rem;
-  margin-left: 25rem;
-  margin-right: 4rem;
-  max-width: 90rem;
+@media screen and (min-width: 86em) {
+    .content {
+        padding-top: 9rem;
+        margin-left: 25rem;
+        margin-right: 4rem;
+        max-width: 54rem;
+    }
 }
 
 // Logo sizing
