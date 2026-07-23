@@ -81,14 +81,21 @@ body {
   flex-direction: column;
   text-decoration: none;
   color: inherit;
+  overflow: hidden;            // ensures the image's border-radius is respected
+  border-radius: 16px;
 }
 
 .tile img {
   width: 100%;
   aspect-ratio: 1 / 1;        // forces every image to the same shape (square)
   object-fit: cover;          // crops to fill that shape without stretching/distorting
-  border-radius: 8px;
+  border-radius: 16px;
   display: block;             // removes the small inline-image gap browsers add by default
+  transition: transform 0.2s ease; // smooth zoom on hover
+}
+
+.tile:hover img {
+  transform: scale(1.08);     // zoom in on hover
 }
 
 .tile span {
