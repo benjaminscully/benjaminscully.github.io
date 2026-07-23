@@ -17,7 +17,7 @@ hide_description: True
     </a>
     <a href="/research/giant-pulse/" class="tile">
         <div class="tile-img-wrap">
-            <img src="/assets/img/research/neutron_star.png" alt="Giant pulses">
+            <img src="/assets/img/research/giant-pulse.png" alt="Giant pulses">
         </div>
         <span>Crab pulsar giant pulses</span>
     </a>
@@ -29,7 +29,7 @@ hide_description: True
     </a>
     <a href="/research/ligo/" class="tile">
         <div class="tile-img-wrap">
-            <img src="/assets/img/research/GWs.jpg" alt="LIGO glitches">
+            <img src="/assets/img/research/ligo.jpg" alt="LIGO glitches">
         </div>
         <span>LIGO Glitch identification</span>
     </a>
