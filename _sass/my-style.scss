@@ -62,3 +62,20 @@ body {
   margin-right: 0.5em;
   font-size: 0.7em;
 }
+
+// grid layout for projects styling
+.tile-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+.tile img {
+  width: 100%;
+  border-radius: 8px;
+}
+.tile span {
+  display: block;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+

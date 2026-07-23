@@ -7,7 +7,31 @@ description: Brief summary of recent astronomy research projects I have conducte
 hide_description: True
 ---
 
-## Magnetic reconnection around neutron stars (2026-present)
+
+<div class="tile-grid">
+    <a href="/research/reconnection/" class="tile">
+        <img src="/assets/img/research/reconnection.png" alt="Magnetic reconnection">
+        <span>Magnetic reconnection in resistive MHD</span>
+    </a>
+    <a href="/research/giant-pulses/" class="tile">
+        <img src="/assets/img/research/neutron_star.png" alt="Giant pulses">
+        <span>Crab pulsar giant pulses</span>
+    </a>
+    <a href="/research/aqn/" class="tile">
+        <img src="/assets/img/research/aqn_sim.png" alt="AQN dark matter">
+        <span>Axion quark nugget dark matter</span>
+    </a>
+    <a href="/research/ligo/" class="tile">
+        <img src="/assets/img/research/GWs.jpg" alt="LIGO glitches">
+        <span>LIGO Glitch identification</span>
+    </a>
+    <a href="/research/sne/" class="tile">
+        <img src="/assets/img/research/sne.jpeg" alt="Aspherical SNe">
+        <span>Aspherical supernovae simulations</span>
+    </a>
+</div>
+
+<!-- ## Magnetic reconnection around neutron stars (2026-present)
 Magnetic reconnection offers an avenue to effciently deposit magnetic field energy into particles. This provides a potential explanation for myseterious emissions from neutron stars like fast radio bursts (FRBs) and giant pulses. Recently, magnetohydrondynamic (MHD) simulations of reconnection events have matched certain kinetic minulation benchmarks through the impolementation of non-uniform resistivity. I am using the gPLUTO code to investigate the role of magnetic reconnection in neutron star environments. <br>
 [Learn more →](/research/reconnection/)
 
@@ -25,4 +49,4 @@ The LIGO/Virgo/KAGRA (LVK) gravitational wave (GW) detectors are some of the mos
 
 ## Aspherical supernovae (2022)
 The vast majority of supernova theory revolves around spherically symmetric explosions, but there are numerous reasons why a star might explode aspherically. Using hydrodynamic simulation, I investigated how in an aspherical supernova, ejecta from one pole can wrap around the star and collide with ejecta from the other pole at the equatorial plane. I showed that provided with the right stellar parameters, this circumstellar collision may be visible in certain supernovae. I proposed that this mecahnism could explain SN2008D. Published in [MNRAS](https://doi.org/10.1093/mnras/stad2360).<br>
-[Learn more →](/research/sne/)
+[Learn more →](/research/sne/) -->
