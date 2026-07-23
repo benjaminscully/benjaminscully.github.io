@@ -29,7 +29,7 @@ hide_description: True
     </a>
     <a href="/research/ligo/" class="tile">
         <div class="tile-img-wrap">
-            <img src="/assets/img/research/ligo.jpg" alt="LIGO glitches">
+            <img src="/assets/img/research/ligo.png" alt="LIGO glitches">
         </div>
         <span>LIGO Glitch identification</span>
     </a>
