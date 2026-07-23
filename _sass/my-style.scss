@@ -81,7 +81,10 @@ body {
   flex-direction: column;
   text-decoration: none;
   color: inherit;
-  overflow: hidden;            // ensures the image's border-radius is respected
+}
+
+.tile-img-wrap {
+  overflow: hidden;
   border-radius: 16px;
 }
 
@@ -89,7 +92,6 @@ body {
   width: 100%;
   aspect-ratio: 1 / 1;        // forces every image to the same shape (square)
   object-fit: cover;          // crops to fill that shape without stretching/distorting
-  border-radius: 16px;
   display: block;             // removes the small inline-image gap browsers add by default
   transition: transform 0.3s ease; // smooth zoom on hover
 }

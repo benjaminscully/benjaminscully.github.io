@@ -10,23 +10,33 @@ hide_description: True
 
 <div class="tile-grid">
     <a href="/research/reconnection/" class="tile">
-        <img src="/assets/img/research/reconnection.png" alt="Magnetic reconnection">
+        <div class="tile-img-wrap">
+            <img src="/assets/img/research/reconnection.png" alt="Magnetic reconnection">
+        </div>
         <span>Magnetic reconnection in resistive MHD</span>
     </a>
     <a href="/research/giant-pulse/" class="tile">
-        <img src="/assets/img/research/neutron_star.png" alt="Giant pulses">
+        <div class="tile-img-wrap">
+            <img src="/assets/img/research/neutron_star.png" alt="Giant pulses">
+        </div>
         <span>Crab pulsar giant pulses</span>
     </a>
     <a href="/research/aqn/" class="tile">
-        <img src="/assets/img/research/aqn_sim.png" alt="AQN dark matter">
+        <div class="tile-img-wrap">
+            <img src="/assets/img/research/aqn_sim.png" alt="AQN dark matter">
+        </div>
         <span>Axion quark nugget dark matter</span>
     </a>
     <a href="/research/ligo/" class="tile">
-        <img src="/assets/img/research/GWs.jpg" alt="LIGO glitches">
+        <div class="tile-img-wrap">
+            <img src="/assets/img/research/GWs.jpg" alt="LIGO glitches">
+        </div>
         <span>LIGO Glitch identification</span>
     </a>
     <a href="/research/sne/" class="tile">
-        <img src="/assets/img/research/sne.jpeg" alt="Aspherical SNe">
+        <div class="tile-img-wrap">
+            <img src="/assets/img/research/sne.jpeg" alt="Aspherical SNe">
+        </div>
         <span>Aspherical supernovae simulations</span>
     </a>
 </div>
