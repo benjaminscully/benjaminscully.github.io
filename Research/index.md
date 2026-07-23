@@ -8,7 +8,7 @@ hide_description: True
 ---
 
 
-<div class="tile-grid">
+<div class="tile-grid research-grid">
     <a href="/research/reconnection/" class="tile">
         <div class="tile-img-wrap">
             <img src="/assets/img/research/reconnection.png" alt="Magnetic reconnection">

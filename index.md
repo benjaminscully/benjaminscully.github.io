@@ -6,7 +6,7 @@ title: Benjamin Scully
 cover: True
 ---
 
-<div class="tile-grid">
+<div class="tile-grid home-grid">
     <a href="/about/" class="tile">
         <div class="tile-img-wrap">
             <img src="/assets/img/icons/about.png" alt="user icon">

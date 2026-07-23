@@ -64,15 +64,25 @@ body {
 }
 
 // grid layout for projects styling
-.tile-grid {
+.research-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
   gap: 2.5rem 1.5rem; // row gap, column gap
 }
 
+.home-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+  gap: 2.5rem 1.5rem; // row gap, column gap
+}
+
 @media screen and (min-width: 600px) {
-  .tile-grid {
+  .research-grid {
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  }
+
+  .home-grid {
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
   }
 }
 
