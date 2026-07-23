@@ -66,16 +66,29 @@ body {
 // grid layout for projects styling
 .tile-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
   gap: 1.5rem;
 }
+
+.tile {
+  display: flex;              // stack children vertically instead of inline flow
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+}
+
 .tile img {
   width: 100%;
+  aspect-ratio: 1 / 1;        // forces every image to the same shape (square)
+  object-fit: cover;          // crops to fill that shape without stretching/distorting
   border-radius: 8px;
+  display: block;             // removes the small inline-image gap browsers add by default
 }
+
 .tile span {
-  display: block;
+  display: block;             // ensures it's on its own line under the image (belt-and-suspenders with flex above)
   text-align: center;
   margin-top: 0.5rem;
+  font-size: 0.95rem;
 }
 

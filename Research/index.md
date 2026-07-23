@@ -13,7 +13,7 @@ hide_description: True
         <img src="/assets/img/research/reconnection.png" alt="Magnetic reconnection">
         <span>Magnetic reconnection in resistive MHD</span>
     </a>
-    <a href="/research/giant-pulses/" class="tile">
+    <a href="/research/giant-pulse/" class="tile">
         <img src="/assets/img/research/neutron_star.png" alt="Giant pulses">
         <span>Crab pulsar giant pulses</span>
     </a>
