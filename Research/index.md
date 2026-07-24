@@ -13,32 +13,36 @@ hide_description: True
         <div class="tile-img-wrap">
             <img src="/assets/img/research/reconnection.png" alt="Magnetic reconnection">
         </div>
-        <span><b>Magnetic reconnection in resistive MHD</b><br>Investigating emission produced 
+        <span><b>Magnetic reconnection in ResRMHD</b><br>Investigating emission produced 
         by magnetic reconnection in neutron star environments using MHD simulation.</span>
     </a>
     <a href="/research/giant-pulse/" class="tile">
         <div class="tile-img-wrap">
-            <img src="<b>/assets/img/research/giant-pulse.png</b>" alt="Giant pulses">
+            <img src="/assets/img/research/giant-pulse.png" alt="Giant pulses">
         </div>
-        <span>Crab pulsar giant pulses</span>
+        <span><b>Crab pulsar giant pulses</b><br>Using GBT 13 GHz observations to constrain
+        the emission mechanism of 'giant pulses' observed from the Crab pulsar.</span>
     </a>
     <a href="/research/aqn/" class="tile">
         <div class="tile-img-wrap">
             <img src="/assets/img/research/aqn_sim.png" alt="AQN dark matter">
         </div>
-        <span>Axion quark nugget dark matter</span>
+        <span><b>Axion quark nugget dark matter</b><br>Examining the emission properties of
+        the AQN dark matter model to probe whether it is detectible in modern telescopes. </span>
     </a>
     <a href="/research/ligo/" class="tile">
         <div class="tile-img-wrap">
             <img src="/assets/img/research/ligo.png" alt="LIGO glitches">
         </div>
-        <span>LIGO Glitch identification</span>
+        <span><b>LIGO Glitch identification</b><br>Employing statistical and dimensional 
+        reduction techniques to improve gravitational wave identification in LIGO detectors. </span>
     </a>
     <a href="/research/sne/" class="tile">
         <div class="tile-img-wrap">
             <img src="/assets/img/research/sne.jpeg" alt="Aspherical SNe">
         </div>
-        <span>Aspherical supernovae simulations</span>
+        <span><b>Aspherical supernovae simulations</b><br>Using hydrodynamic simulations to determine
+        whether aspherical supernovae produce emission from circumstellar ejecta collisions.</span>
     </a>
 </div>
 
