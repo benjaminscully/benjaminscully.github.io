@@ -39,7 +39,7 @@ Every year UBC hosts a physics olympics competition for 80+ secondary schools ar
 
   <div class="slide-track">
     <img src="/assets/img/outreach/astrotours.png" class="slide active" alt="astrotours">
-    <!-- <img src="/assets/img/outreach/photo2.jpg" class="slide" alt="Outreach photo 2"> -->
+    <img src="/assets/img/me_square.png" class="slide" alt="Outreach photo 2">
     <!-- <img src="/assets/img/outreach/photo3.jpg" class="slide" alt="Outreach photo 3"> -->
   </div>
 
