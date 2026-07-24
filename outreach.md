@@ -57,7 +57,6 @@ Every year UBC hosts a physics olympics competition for 80+ secondary schools ar
     const caption = document.querySelector('.slide-caption');
     const dotsContainer = document.querySelector('.slide-dots');
     let current = 0;
-
     // build one dot per slide
     slides.forEach((_, i) => {
       const dot = document.createElement('button');
@@ -67,7 +66,6 @@ Every year UBC hosts a physics olympics competition for 80+ secondary schools ar
       dotsContainer.appendChild(dot);
     });
     const dots = document.querySelectorAll('.slide-dot');
-
     function showSlide(index) {
       slides[current].classList.remove('active');
       dots[current].classList.remove('active');
@@ -78,10 +76,8 @@ Every year UBC hosts a physics olympics competition for 80+ secondary schools ar
       dots[current].classList.add('active');
       caption.textContent = slides[current].dataset.caption || '';
     }
-
     document.querySelector('.slide-prev').addEventListener('click', () => showSlide(current - 1));
     document.querySelector('.slide-next').addEventListener('click', () => showSlide(current + 1));
-
     // initialize first slide's dot + caption
     dots[0].classList.add('active');
     caption.textContent = slides[0].dataset.caption || '';
