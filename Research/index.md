@@ -13,11 +13,12 @@ hide_description: True
         <div class="tile-img-wrap">
             <img src="/assets/img/research/reconnection.png" alt="Magnetic reconnection">
         </div>
-        <span>Magnetic reconnection in resistive MHD</span>
+        <span><b>Magnetic reconnection in resistive MHD</b><br>Investigating emission produced 
+        by magnetic reconnection in neutron star environments using MHD simulation.</span>
     </a>
     <a href="/research/giant-pulse/" class="tile">
         <div class="tile-img-wrap">
-            <img src="/assets/img/research/giant-pulse.png" alt="Giant pulses">
+            <img src="<b>/assets/img/research/giant-pulse.png</b>" alt="Giant pulses">
         </div>
         <span>Crab pulsar giant pulses</span>
     </a>
