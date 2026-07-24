@@ -37,15 +37,21 @@ Every year UBC hosts a physics olympics competition for 80+ secondary schools ar
 
 <div class="slideshow">
   <button class="slide-arrow slide-prev" aria-label="Previous photo">&#10094;</button>
+
   <div class="slide-track">
-    <img src="/assets/img/outreach/astrotours.png" class="slide active" alt="astrotours" data-caption="Interactive demos at Astrotours">
-    <img src="/assets/img/me_square.png" class="slide" alt="Outreach photo 2" data-caption="Test caption">
-    <!-- <img src="/assets/img/outreach/photo3.jpg" class="slide" alt="Outreach photo 3" data-caption="Caption"> -->
+    <img src="/assets/img/outreach/photo1.jpg" class="slide active" alt="Outreach photo 1" data-caption="Talking to students at the science fair">
+    <img src="/assets/img/outreach/photo2.jpg" class="slide" alt="Outreach photo 2" data-caption="Telescope night at the observatory">
+    <img src="/assets/img/outreach/photo3.jpg" class="slide" alt="Outreach photo 3" data-caption="Guest lecture at the local high school">
+    <!-- add as many as you like, each with its own data-caption -->
   </div>
+
   <button class="slide-arrow slide-next" aria-label="Next photo">&#10095;</button>
 </div>
+
 <p class="slide-caption"></p>
+
 <div class="slide-dots"></div>
+
 
 <script>
   (function() {
@@ -53,7 +59,8 @@ Every year UBC hosts a physics olympics competition for 80+ secondary schools ar
     const caption = document.querySelector('.slide-caption');
     const dotsContainer = document.querySelector('.slide-dots');
     let current = 0;
-    // build one dot per slide
+
+
     slides.forEach((_, i) => {
       const dot = document.createElement('button');
       dot.classList.add('slide-dot');
@@ -62,17 +69,22 @@ Every year UBC hosts a physics olympics competition for 80+ secondary schools ar
       dotsContainer.appendChild(dot);
     });
     const dots = document.querySelectorAll('.slide-dot');
+
     function showSlide(index) {
       slides[current].classList.remove('active');
       dots[current].classList.remove('active');
+
       current = (index + slides.length) % slides.length;
+
       slides[current].classList.add('active');
       dots[current].classList.add('active');
       caption.textContent = slides[current].dataset.caption || '';
     }
+
     document.querySelector('.slide-prev').addEventListener('click', () => showSlide(current - 1));
     document.querySelector('.slide-next').addEventListener('click', () => showSlide(current + 1));
-    // initialize first slide's dot + caption
+
+
     dots[0].classList.add('active');
     caption.textContent = slides[0].dataset.caption || '';
   })();
