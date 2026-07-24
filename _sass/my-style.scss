@@ -118,7 +118,7 @@ body {
   font-size: 0.95rem;
 }
 
-
+// Adding slide show styles
 .slideshow {
   position: relative;
   display: flex;
@@ -167,4 +167,33 @@ body {
 
 .slide-arrow:hover {
   background: rgba(0, 0, 0, 0.7);
+}
+
+.slide-caption {
+  text-align: center;
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.slide-dots {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.slide-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.25);
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  transition: background 0.2s ease;
+}
+
+.slide-dot.active {
+  background: rgba(0, 0, 0, 0.75);
 }
