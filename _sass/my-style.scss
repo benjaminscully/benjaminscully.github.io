@@ -26,7 +26,9 @@ body {
     }
 }
 
-// Logo sizing
+// ==================
+// == Logo styling ==
+// ==================
 .sidebar-sticky [href="/"] img {
   max-width: 480px;
   min-width: 220px;
@@ -43,6 +45,9 @@ body {
   padding-left: 1.5em;
 }
 
+// =========================
+// == Custom list styling ==
+// =========================
 // Nested list styling
 .page ul ul,
 .page ul ol {
@@ -63,7 +68,9 @@ body {
   font-size: 0.7em;
 }
 
-// grid layout for projects styling
+// ==============================
+// == Grid layout for projects ==
+// ==============================
 .research-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
@@ -115,10 +122,12 @@ body {
   display: block;             // ensures it's on its own line under the image (belt-and-suspenders with flex above)
   text-align: center;
   margin-top: 0.5rem;
-  font-size: 0.95rem;
+  font-size: 1.125rem;
 }
 
-// Adding slide show styles
+// ==============================
+// == Adding slide show styles ==
+// ==============================
 .slideshow {
   position: relative;
   display: flex;
@@ -172,7 +181,7 @@ body {
 .slide-caption {
   text-align: center;
   margin-top: 0.75rem;
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   color: var(--body-color);
 }
 

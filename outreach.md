@@ -39,8 +39,8 @@ Every year UBC hosts a physics olympics competition for 80+ secondary schools ar
   <button class="slide-arrow slide-prev" aria-label="Previous photo">&#10094;</button>
 
   <div class="slide-track">
-    <img src="/assets/img/outreach/astrotours.png" class="slide active" alt="Astrotours photo" data-caption="AstroTours interacitve demos">
-    <img src="/assets/img/me_square.png" class="slide" alt="Outreach photo 2" data-caption="Caption">
+    <img src="/assets/img/outreach/astrotours.png" class="slide active" alt="Astrotours photo" data-caption="AstroTours interactive demos">
+    <!-- <img src="/assets/img/me_square.png" class="slide" alt="Outreach photo 2" data-caption="Caption"> -->
     <!-- <img src="/assets/img/outreach/photo3.jpg" class="slide" alt="Outreach photo 3" data-caption="Guest lecture at the local high school"> -->
     <!-- add as many as you like, each with its own data-caption -->
   </div>
