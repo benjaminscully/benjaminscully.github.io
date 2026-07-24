@@ -69,9 +69,7 @@ Every year UBC hosts a physics olympics competition for 80+ secondary schools ar
     function showSlide(index) {
       slides[current].classList.remove('active');
       dots[current].classList.remove('active');
-
       current = (index + slides.length) % slides.length;
-
       slides[current].classList.add('active');
       dots[current].classList.add('active');
       caption.textContent = slides[current].dataset.caption || '';
