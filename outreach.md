@@ -4,6 +4,7 @@ title: Outreach
 accent_image: /assets/img/bgs/trees-wide-blur.png
 description: Summary of my outreach activities during grad school and undergrad.
 hide_description: True
+no_push_state: true
 ---
 
 I believe making physics and astronomy accesible to marginalized groups and the public as a whole is a vital aspect of being a part of the astronomy community. As such I have and continue to endeavor to be a part of outreach efforts. Below are some examples of what I'm involved in!
@@ -49,7 +50,7 @@ Every year UBC hosts a physics olympics competition for 80+ secondary schools ar
 
 <div class="slide-dots"></div>
 
-
+<div markdown="0">
 <script>
   (function() {
     const slides = document.querySelectorAll('.slide');
@@ -86,3 +87,4 @@ Every year UBC hosts a physics olympics competition for 80+ secondary schools ar
     caption.textContent = slides[0].dataset.caption || '';
   })();
 </script>
+</div>
