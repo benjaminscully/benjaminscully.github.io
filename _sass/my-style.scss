@@ -118,3 +118,53 @@ body {
   font-size: 0.95rem;
 }
 
+
+.slideshow {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 700px;
+  margin: 2rem auto;
+}
+
+.slide-track {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 4 / 3;   // adjust to match your photos' typical shape
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.slide.active {
+  opacity: 1;
+}
+
+.slide-arrow {
+  background: rgba(0, 0, 0, 0.4);
+  color: white;
+  border: none;
+  font-size: 1.5rem;
+  padding: 0.5rem 0.8rem;
+  cursor: pointer;
+  border-radius: 50%;
+  z-index: 2;
+}
+
+.slide-prev { margin-right: 0.75rem; }
+.slide-next { margin-left: 0.75rem; }
+
+.slide-arrow:hover {
+  background: rgba(0, 0, 0, 0.7);
+}

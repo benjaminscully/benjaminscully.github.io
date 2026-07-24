@@ -32,3 +32,33 @@ The University of British Columbia (UBC) Department of Physics and Astronomy off
 #### UBC Physics Olympics 
 Every year UBC hosts a physics olympics competition for 80+ secondary schools around BC. For three years I was part of the volunteer team who designed and executed one of the "Pre-build" competitions with Prof. Valery Milner. These pre-build challenges included building a vaccuum pump, a mechanical cooler and a optical bench set-up.<br>
 **[More information here!](https://physoly.phas.ubc.ca)**
+
+
+<div class="slideshow">
+  <button class="slide-arrow slide-prev" aria-label="Previous photo">&#10094;</button>
+
+  <div class="slide-track">
+    <img src="/assets/img/outreach/astrotours.png" class="slide active" alt="astrotours">
+    <!-- <img src="/assets/img/outreach/photo2.jpg" class="slide" alt="Outreach photo 2"> -->
+    <!-- <img src="/assets/img/outreach/photo3.jpg" class="slide" alt="Outreach photo 3"> -->
+  </div>
+
+  <button class="slide-arrow slide-next" aria-label="Next photo">&#10095;</button>
+</div>
+
+
+<script>
+  (function() {
+    const slides = document.querySelectorAll('.slide');
+    let current = 0;
+
+    function showSlide(index) {
+      slides[current].classList.remove('active');
+      current = (index + slides.length) % slides.length;
+      slides[current].classList.add('active');
+    }
+
+    document.querySelector('.slide-prev').addEventListener('click', () => showSlide(current - 1));
+    document.querySelector('.slide-next').addEventListener('click', () => showSlide(current + 1));
+  })();
+</script>
