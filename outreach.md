@@ -40,7 +40,7 @@ Every year UBC hosts a physics olympics competition for 80+ secondary schools ar
 
   <div class="slide-track">
     <img src="/assets/img/outreach/astrotours.png" class="slide active" alt="Astrotours photo" data-caption="AstroTours interactive demos">
-    <img src="/assets/img/outreach/phys_olympics.png" class="slide" alt="Physic olympics photo" data-caption="2025 Physics Olympics pre-build 1 competition">
+    <!-- <img src="/assets/img/outreach/phys_olympics.png" class="slide" alt="Physic olympics photo" data-caption="2025 Physics Olympics pre-build 1 competition"> -->
     <!-- <img src="/assets/img/outreach/photo3.jpg" class="slide" alt="Outreach photo 3" data-caption="Guest lecture at the local high school"> -->
     <!-- add as many as you like, each with its own data-caption -->
   </div>
