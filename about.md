@@ -11,5 +11,5 @@ Outreach is a very important part of my presence in astronomy and I continuously
 
 Outside of academics I love listening to music, playing piano, swimming and futbol, and reading --- mostly but not limited to sci-fi and fantasy (I promise I'm a well-rounded person).
 
-You can contact me at <a id="email-link" href="#">Loading email…</a><script src="/assets/js/email-obfuscate.js"></script> :) <br>
+You can contact me at <a id="email-link" href="#">b.scully [at] mail.utoronto.ca</a><script src="/assets/js/email-obfuscate.js"></script> :) <br>
 Links to other 'socials' are at the botom of the side bar to the left.
