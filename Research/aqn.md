@@ -19,7 +19,7 @@ Because AQNs are thought to emit thermally -- though very faintly -- it presents
 
 <center>
 <img title="Euclid histogram" alt="Euclid signal histogram" src="/assets/plots/aqn_euclid.png" width="400">
-<img title="AQN histogram" alt="AQN (100g) signal histogram" src="/assets/plots/aqn_100g.png" width="400">
+<img title="AQN histogram" alt="AQN (100g) signal histogram" src="/assets/plots/aqn_100g.png" width="400"><br>
 <b>Figure:</b> Analog to Digital (ADU) counts for Euclid telescope (left) and simulated 100g AQN observation (right). Euclid is sensitive down to ~0.1 ADU, placing the AQN signal in a detectable range.
 </center>
 <br>
