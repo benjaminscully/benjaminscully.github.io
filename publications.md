@@ -14,7 +14,7 @@ I try to keep this up to date but [ORCID](https://orcid.org/0009-0005-0313-3129)
 
 ## Co-author
 
-[4] Alcaron, R., et al. incl. **Scully, B.**, The DarkLight Experiment at TRIUMF. *Submitted to NIM A*, arXiv: [2609.05674](https://arxiv.org/abs/2609.05674) (Sep. 2026)
+[4] Alarcon, R., et al. incl. **Scully, B.**, The DarkLight Experiment at TRIUMF. *Submitted to NIM A*, arXiv: [2609.05674](https://arxiv.org/abs/2609.05674) (Sep. 2026)
 
 [3] Sekatchev, M., Liang, X., Majidi, F., **Scully, B.**,  Waerbeke, L. V., & Zhitnitsky, A., The Glow of Axion Quark Nugget Dark Matter: (III) the Mysteries of the Milky Way UV Background. *JCAP*: [10.1088/1475-7516/2026/03/010](https://iopscience.iop.org/article/10.1088/1475-7516/2026/03/010), arXiv: [2504.15382](https://arxiv.org/abs/2504.15382) (Mar. 2026)
 
