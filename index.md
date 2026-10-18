@@ -25,7 +25,7 @@ cover: True
         </div>
         <span>Outreach involvement</span>
     </a>
-    <a href="/cv/ligo/" class="tile">
+    <a href="/cv/" class="tile">
         <div class="tile-img-wrap">
             <img src="/assets/img/icons/cv.png" alt="book icon">
         </div>
